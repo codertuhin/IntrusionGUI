@@ -1,0 +1,378 @@
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe.config
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyle.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyleWin7.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyleXP.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyle.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.lref
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.exe
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.g.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csproj.GenerateResource.Cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csprojResolveAssemblyReference.cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ExpressionLight.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\None.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ShinyBlue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ShinyRed.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\WhistlerBlue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\BureauBlack.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\BureauBlue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ExpressionDark.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.xml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Dragablz.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Dragablz.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Dragablz.xml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\MahApps.Metro.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\System.Windows.Interactivity.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\MahApps.Metro.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\MahApps.Metro.xml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.LocalResources.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.LocalResourcesByName.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\en-US\Ofir_Shtainfeld.resources.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.localization.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.localization.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.en-US.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\en-US\Ofir_Shtainfeld.resources.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\bg-BG\Ofir_Shtainfeld.resources.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\fr-FR\Ofir_Shtainfeld.resources.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.bg-BG.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.fr-FR.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\bg-BG\Ofir_Shtainfeld.resources.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\fr-FR\Ofir_Shtainfeld.resources.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Window1.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe.config
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.exe
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\bg-BG\Ofir_Shtainfeld.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\en-US\Ofir_Shtainfeld.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\fr-FR\Ofir_Shtainfeld.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.localization.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.localization.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.xml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csprojResolveAssemblyReference.cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ExpressionLight.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\None.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ShinyBlue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ShinyRed.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\WhistlerBlue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyle.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyleWin7.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyleXP.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\WindowStyle.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.lref
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\BureauBlack.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\BureauBlue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Themes\Skins\ExpressionDark.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.g.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.LocalResources.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.LocalResourcesByName.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.bg-BG.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.en-US.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.Properties.Resources.fr-FR.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csproj.GenerateResource.Cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\bg-BG\Ofir_Shtainfeld.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\en-US\Ofir_Shtainfeld.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\fr-FR\Ofir_Shtainfeld.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe.config
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.exe
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.xml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csprojResolveAssemblyReference.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.lref
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.g.resources
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Resources\en-US.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Resources\fr-FR.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe.config
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.model.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\System.Windows.Interactivity.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.xml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.model.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csprojResolveAssemblyReference.cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Resources\en-US.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Resources\fr-FR.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.lref
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.g.resources
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.exe
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe.config
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.exe
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.model.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\osc.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.ma.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ost.design.xml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.model.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Resources\en-US.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Resources\fr-FR.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.lref
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\App.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControl2.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\MainPage.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Shell.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.g.resources
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Dal.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Data_Obj.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Repository.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Shared_Data.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Dal.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Data_Obj.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Repository.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Shared_Data.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Shared_Data.xml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.model.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\bin\Debug\os.model.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe.config
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.exe
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.ma.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.model.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\osc.design.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ost.design.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\System.Windows.Interactivity.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Data_Obj.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Dal.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Newtonsoft.Json.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Shared_Data.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\osc.design.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.ma.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ost.design.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ost.design.xml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.model.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Repository.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Data_Obj.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Dal.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Newtonsoft.Json.xml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Shared_Data.pdb
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Shared_Data.xml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csprojResolveAssemblyReference.cache
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Resources\en-US.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Resources\fr-FR.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl.g.cs
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl2.g.cs
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.g.cs
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\MainPage.g.cs
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Shell.g.cs
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\App.g.cs
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.cache
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.lref
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\App.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl2.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\MainPage.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Shell.baml
+E:\oDesk\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.g.resources
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe.config
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.exe
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Ofir_Shtainfeld.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.ma.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.model.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\osc.design.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ost.design.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\System.Windows.Interactivity.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Data_Obj.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Dal.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Newtonsoft.Json.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Shared_Data.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\osc.design.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.ma.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ost.design.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ost.design.xml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\os.model.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Repository.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Data_Obj.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Dal.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Newtonsoft.Json.xml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Shared_Data.pdb
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\Shared_Data.xml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.csprojResolveAssemblyReference.cache
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Resources\en-US.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Resources\fr-FR.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl.g.cs
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl2.g.cs
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.g.cs
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\MainPage.g.cs
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Shell.g.cs
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\App.g.cs
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.cache
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld_MarkupCompile.lref
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\App.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControl2.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\CameraControlWindow.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\MainPage.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Shell.baml
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.g.resources
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.exe
+D:\Upwork\Intrusion GUI\Ofir_Shtainfeld\obj\Debug\Ofir_Shtainfeld.pdb

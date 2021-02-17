@@ -1,0 +1,392 @@
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csprojResolveAssemblyReference.cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Chip.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GroupBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.SmartHint.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Snackbar.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csproj.GenerateResource.Cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.xml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.lref
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.g.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csprojResolveAssemblyReference.cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.lref
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.xml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Chip.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GroupBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.SmartHint.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Snackbar.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.g.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csproj.GenerateResource.Cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.xml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csprojResolveAssemblyReference.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.lref
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Chip.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GroupBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.SmartHint.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Snackbar.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.g.resources
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csproj.GenerateResource.Cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.xml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csprojResolveAssemblyReference.cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.lref
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Chip.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GroupBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.SmartHint.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Snackbar.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.g.resources
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csproj.GenerateResource.Cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.xml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\ost.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\bin\Debug\osc.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.lref
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Chip.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GroupBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.SmartHint.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Snackbar.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.g.resources
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csproj.GenerateResource.Cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.Wpf\obj\Debug\ost.design.pdb
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\ost.design.xml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\ost.design.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\ost.design.pdb
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\osc.design.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\osc.design.pdb
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csprojResolveAssemblyReference.cache
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.cache
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.lref
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Chip.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GroupBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.SmartHint.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Snackbar.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.g.resources
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csproj.GenerateResource.Cache
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\ost.design.xml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\ost.design.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\ost.design.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\osc.design.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\bin\Debug\osc.design.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csprojResolveAssemblyReference.cache
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GridSplitter.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Hyperlink.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Label.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RadioButton.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollBar.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ScrollViewer.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Shadows.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Slider.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Defaults.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Dark.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Light.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.CheckBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBarTray.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBlock.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Font.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.cache
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design_MarkupCompile.lref
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\Generic.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Calendar.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Card.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Chip.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Clock.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ComboBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.ComboBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DataGrid.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.DatePicker.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Expander.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.GroupBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Menu.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PasswordBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.PopupBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ProgressBar.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.RatingBar.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Button.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.SmartHint.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.Snackbar.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TextBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TimePicker.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToggleButton.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ListBox.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolBar.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ToolTip.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.TreeView.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\Themes\MaterialDesignTheme.ValidationErrorTemplate.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.g.resources
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\MaterialDesignThemes.Wpf.Properties.Resources.resources
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.csproj.GenerateResource.Cache
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.Wpf\obj\Debug\ost.design.pdb

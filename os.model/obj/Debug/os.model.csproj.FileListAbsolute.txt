@@ -1,0 +1,30 @@
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\os.model\bin\Debug\os.model.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\os.model\bin\Debug\os.model.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\os.model\obj\Debug\os.model.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\os.model\obj\Debug\os.model.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\os.model\obj\Debug\os.model.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\os.model\obj\Debug\os.model.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\os.model\obj\Debug\os.model.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\os.model\obj\Debug\os.model.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\os.model\bin\Debug\os.model.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\os.model\bin\Debug\os.model.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_6_Ofir_Shtainfeld_12162016\Ofir_Shtainfeld\os.model\obj\Debug\os.model.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_6_Ofir_Shtainfeld_12162016\Ofir_Shtainfeld\os.model\obj\Debug\os.model.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_6_Ofir_Shtainfeld_12162016\Ofir_Shtainfeld\os.model\obj\Debug\os.model.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_6_Ofir_Shtainfeld_12162016\Ofir_Shtainfeld\os.model\bin\Debug\os.model.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_6_Ofir_Shtainfeld_12162016\Ofir_Shtainfeld\os.model\bin\Debug\os.model.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\os.model\bin\Debug\os.model.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\os.model\bin\Debug\os.model.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\os.model\obj\Debug\os.model.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\os.model\obj\Debug\os.model.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\os.model\obj\Debug\os.model.csprojResolveAssemblyReference.cache
+E:\oDesk\Intrusion GUI\os.model\bin\Debug\os.model.dll
+E:\oDesk\Intrusion GUI\os.model\bin\Debug\os.model.pdb
+E:\oDesk\Intrusion GUI\os.model\obj\Debug\os.model.csprojResolveAssemblyReference.cache
+E:\oDesk\Intrusion GUI\os.model\obj\Debug\os.model.dll
+E:\oDesk\Intrusion GUI\os.model\obj\Debug\os.model.pdb
+D:\Upwork\Intrusion GUI\os.model\bin\Debug\os.model.dll
+D:\Upwork\Intrusion GUI\os.model\bin\Debug\os.model.pdb
+D:\Upwork\Intrusion GUI\os.model\obj\Debug\os.model.csprojResolveAssemblyReference.cache
+D:\Upwork\Intrusion GUI\os.model\obj\Debug\os.model.dll
+D:\Upwork\Intrusion GUI\os.model\obj\Debug\os.model.pdb

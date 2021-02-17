@@ -1,0 +1,740 @@
+﻿<UserControl x:Class="Ofir_Shtainfeld.MainPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:Ofir_Shtainfeld"
+             xmlns:grayEffect="clr-namespace:GrayscaleEffect;assembly=GrayscaleEffect"
+             mc:Ignorable="d"  Name="MainPageControl"
+             d:DesignHeight="610" d:DesignWidth="800">
+                
+    <UserControl.Resources>
+
+        <Style TargetType="{x:Type Label}">
+                <Style.Setters>
+
+
+                    <Setter Property="Effect">
+                        <Setter.Value>
+                            <DropShadowEffect ShadowDepth="0" Color="White" Opacity="1" BlurRadius="5"/>
+
+                        </Setter.Value>
+                    </Setter>
+
+
+
+
+                </Style.Setters>
+            </Style>
+
+
+        <!--<Style TargetType="{x:Type ListBoxItem}">
+            <Style.Setters>
+
+                <Setter Property="Foreground" Value="White"/>
+
+                <Setter Property="Effect">
+                    <Setter.Value>
+                        <DropShadowEffect ShadowDepth="0" Color="White" Opacity="1" BlurRadius="5"/>
+
+                    </Setter.Value>
+                </Setter>
+
+
+
+
+            </Style.Setters>
+        </Style>-->
+
+    </UserControl.Resources>
+    <materialDesign:ColorZone Background="#242628"  VerticalAlignment="Stretch" HorizontalAlignment="Stretch" VerticalContentAlignment="Stretch">
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="250"/>
+                <RowDefinition />
+                <RowDefinition Height="45"/>
+            </Grid.RowDefinitions>
+
+            <Border BorderBrush="Gray" BorderThickness="2" CornerRadius="10" Margin="5">
+                <Border.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="Effect">
+                            <Setter.Value>
+                                <DropShadowEffect Color="DarkGray" ShadowDepth="2" Opacity="1"/>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Border.Resources>
+                <Grid Margin="5">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="50"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Background="DimGray" Margin="5">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="30"/>
+                        </Grid.RowDefinitions>
+                        <Button Cursor="Hand"  BorderBrush="{x:Null}" BorderThickness="0" Background="{x:Null}" 
+                                  Command="{Binding Channel1_Playback_Command}" CommandParameter="{Binding ElementName=MainPageControl}">
+                            <Button.Style>
+                                <Style TargetType="Button"/>
+                            </Button.Style>
+                            <Image Source="{Binding Channel1_Image}" VerticalAlignment="Center" Stretch="Fill" IsEnabled="{Binding Path=Channel1_IsConnected, Mode=TwoWay, IsAsync=True, UpdateSourceTrigger=PropertyChanged}">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Style.Triggers>
+                                        <DataTrigger  Binding="{Binding Channel1_IsConnected}" Value="False">
+                                            <Setter Property="Effect">
+                                                <Setter.Value>
+                                                    <grayEffect:GrayscaleEffect DesaturationFactor="3"/>
+
+                                                </Setter.Value>
+                                            </Setter>
+
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                            </Image>
+                        </Button>
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="25"/>
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Orientation="Horizontal">
+                            <Label FontSize="15"  FontWeight="Black" Content="{Binding Path=Channel1_Name,Mode=TwoWay, IsAsync=True, UpdateSourceTrigger=PropertyChanged}" HorizontalContentAlignment="Center" HorizontalAlignment="Left"/>
+                            <Label FontSize="10"  FontWeight="Black" Content="{Binding Path=Channel1_Description,Mode=TwoWay, IsAsync=True, UpdateSourceTrigger=PropertyChanged}" HorizontalContentAlignment="Center" HorizontalAlignment="Right" VerticalContentAlignment="Bottom"/>
+
+                            </StackPanel>
+                           
+                            <Button Grid.Column="1" Style="{StaticResource MaterialDesignFloatingActionMiniDarkButton}" Width="20" Height="20"
+                                   
+                                     Command="{Binding Channel1_Playback_Command}" CommandParameter="{Binding ElementName=MainPageControl}"
+                         HorizontalAlignment="Center"
+                        ToolTip="Playback" materialDesign:ShadowAssist.ShadowDepth="Depth3">
+                                <Image Source="Images\ChannelDetails-Normal.png"   Height="20" Width="20" />
+
+                            </Button>
+                        </Grid>
+                        <!--<CheckBox Content="Hello Me" IsChecked="{Binding IsRecording, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>-->
+                    </Grid>
+                    <Grid Background="DimGray" Grid.Column="1" Margin="5" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="30"/>
+                        </Grid.RowDefinitions>
+                        <Button Cursor="Hand"   BorderBrush="{x:Null}" BorderThickness="0" Background="{x:Null}" Command="{Binding Channel2_Playback_Command}" CommandParameter="{Binding ElementName=MainPageControl}"
+>
+                            <Button.Style>
+                                <Style TargetType="Button"/>
+                            </Button.Style>
+                               <Image
+                            Source="{Binding Channel2_Image}" VerticalAlignment="Center" Stretch="Fill"  IsEnabled="{Binding Path=Channel2_IsConnected, Mode=TwoWay, IsAsync=True, UpdateSourceTrigger=PropertyChanged}">
+                            <Image.Style>
+                                <Style TargetType="Image">
+                                    <Style.Triggers>
+                                        <DataTrigger  Binding="{Binding Channel2_IsConnected}" Value="False">
+                                            <Setter Property="Effect">
+                                                <Setter.Value>
+                                                    <grayEffect:GrayscaleEffect DesaturationFactor="3"/>
+
+                                                </Setter.Value>
+                                            </Setter>
+
+                                        </DataTrigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Image.Style>
+                           
+                        </Image>
+                        </Button>
+                             
+                
+                  
+                        
+                        <Grid Grid.Row="1">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="25"/>
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Orientation="Horizontal">
+                                <Label FontSize="15"  FontWeight="Black" Content="{Binding Path=Channel2_Name,Mode=TwoWay, IsAsync=True, UpdateSourceTrigger=PropertyChanged}" HorizontalContentAlignment="Center" HorizontalAlignment="Left"/>
+                                <Label FontSize="10"  FontWeight="Black" Content="{Binding Path=Channel2_Description,Mode=TwoWay, IsAsync=True, UpdateSourceTrigger=PropertyChanged}" HorizontalContentAlignment="Center" HorizontalAlignment="Right" VerticalContentAlignment="Bottom"/>
+
+                            </StackPanel>
+
+                            <Button Grid.Column="1" Style="{StaticResource MaterialDesignFloatingActionMiniDarkButton}" Width="20" Height="20"
+                                   
+                                     Command="{Binding Channel2_Playback_Command}" CommandParameter="{Binding ElementName=MainPageControl}"
+                         HorizontalAlignment="Center"
+                        ToolTip="Playback" materialDesign:ShadowAssist.ShadowDepth="Depth3">
+                                <Image Source="Images\ChannelDetails-Normal.png"   Height="20" Width="20" />
+
+                            </Button>
+                        </Grid>
+                    </Grid>
+
+                    <Grid Grid.Column="2">
+
+
+
+                        <StackPanel Orientation="Vertical">
+
+                            <!--Command="{x:Static materialDesign:Transitioner.MoveNextCommand}"-->
+
+                            <Button Style="{StaticResource MaterialDesignFloatingActionMiniDarkButton}"
+                                   
+                                     Command="{Binding PlaybackButtonCommand}" CommandParameter="{Binding ElementName=MainPageControl}"
+                        Margin="5,5,5,10" HorizontalAlignment="Left"
+                        ToolTip="Playback" materialDesign:ShadowAssist.ShadowDepth="Depth3">
+                                <Image Source="Images\Play-Normal.png"   Height="24" Width="24" />
+
+                            </Button>
+
+
+                            <Button Style="{StaticResource MaterialDesignFloatingActionMiniDarkButton}"
+                                materialDesign:ShadowAssist.ShadowDepth="Depth3"
+                                    Command="{Binding MainButtonCommand}"
+                         Margin="5,5,5,10" HorizontalAlignment="Left"
+                        ToolTip="Main">
+                                <Image Source="Images\Main-Normal.png"   Height="24" Width="24" />
+                            </Button>
+
+                            <Button Style="{StaticResource MaterialDesignFloatingActionMiniDarkButton}"
+                                     Command="{Binding SettingsButtonCommand}"
+                                materialDesign:ShadowAssist.ShadowDepth="Depth3"
+                        Margin="5,5,5,10" HorizontalAlignment="Left"
+                        ToolTip="Settings">
+                                <Image Source="Images\Settings-Normal.png"   Height="24" Width="24" />
+                            </Button>
+
+
+
+                        </StackPanel>
+
+                    </Grid>
+
+
+
+                </Grid>
+            </Border>
+
+
+            <Border BorderBrush="Transparent" BorderThickness="2" Grid.Row="1" Margin="5" CornerRadius="10">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="45"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Border Grid.Row="0" CornerRadius="10" Background="Transparent">
+                        <Border.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="Effect">
+
+                                    <Setter.Value>
+                                        <DropShadowEffect ShadowDepth="0" Color="DarkGray" Opacity="1" BlurRadius="10"/>
+
+                                    </Setter.Value>
+
+                                </Setter>
+                            </Style>
+
+                        </Border.Resources>
+                        <Grid Grid.Row="0" >
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition/>
+                                <ColumnDefinition Width="10"/>
+                                <ColumnDefinition/>
+
+                            </Grid.ColumnDefinitions>
+                            <!--<Button Height="25" Width="25" Style="{StaticResource MaterialDesignFloatingActionMiniDarkButton}"
+                        Margin="0 0 0 0" HorizontalAlignment="Left"
+                       >
+                        <materialDesign:PackIcon Kind="Record" Height="20" Width="20" />
+                    </Button>-->
+
+                            <ToggleButton Foreground="Red" Style="{StaticResource MaterialDesignFlatPrimaryToggleButton}"
+                          Margin="2" 
+                          ToolTip="Start Recording" 
+                          Command="{Binding IsRecordingLeft_Command}"  CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                          IsChecked="{Binding Channel1_IsRecording, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left">
+                                <Image Source="Images\Record-Normal.png" Height="21" Width="21" />
+                            </ToggleButton>
+
+
+                            <Label   VerticalContentAlignment="Center" FontSize="14" FontWeight="Black" HorizontalAlignment="Right">
+
+                                <Label.Style>
+                                    <Style TargetType="Label">
+
+
+                                        <Style.Triggers>
+                                            <DataTrigger  Binding="{Binding Channel1_IsRecording}" Value="True">
+                                                <Setter Property="Content" Value="Recording..."/>
+                                                
+                                                <Setter Property="Effect">
+                                                <Setter.Value>
+                                                    <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                </Setter.Value>
+                                            </Setter>
+                                            </DataTrigger>
+
+                                            <DataTrigger  Binding="{Binding Channel1_IsRecording}" Value="False">
+                                                <Setter Property="Content" Value="Recording Stopped."/>
+                                                <Setter Property="Effect">
+                                                    <Setter.Value>
+                                                        <DropShadowEffect ShadowDepth="0" Color="Gray" Opacity="1" BlurRadius="20"/>
+
+                                                    </Setter.Value>
+                                                </Setter>
+
+                                            </DataTrigger>
+
+                                        </Style.Triggers>
+                                    </Style>
+                                </Label.Style>
+                            </Label>
+
+
+
+                            <StackPanel Orientation="Horizontal" Grid.Column="1">
+                              
+                                <Separator Width="2" Background="LightGray" Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}" />
+                            </StackPanel>
+                            <ToggleButton Grid.Column="2" Foreground="Red" Style="{StaticResource MaterialDesignFlatPrimaryToggleButton}"
+                          
+                                          Command="{Binding IsRecordingRight_Command}"  CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                                          Margin="2" 
+                          ToolTip="Start Recording"
+                           IsChecked="{Binding Channel2_IsRecording, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                          HorizontalAlignment="Left">
+                                <Image Source="Images\Record-Normal.png" Height="21" Width="21" />
+
+
+                            </ToggleButton>
+                            <!--Command -->
+                            <!--IsChecked="{Binding IsConnected, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"-->
+
+
+                            <Label Grid.Column="2"  VerticalContentAlignment="Center" FontSize="14" FontWeight="Black" HorizontalAlignment="Right">
+
+                                <Label.Style>
+                                    <Style TargetType="Label">
+
+
+                                        <Style.Triggers>
+                                            <DataTrigger  Binding="{Binding Channel2_IsRecording}" Value="True">
+                                                <Setter Property="Content" Value="Recording..."/>
+
+                                                <Setter Property="Effect">
+                                                    <Setter.Value>
+                                                        <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                    </Setter.Value>
+                                                </Setter>
+                                            </DataTrigger>
+
+                                            <DataTrigger  Binding="{Binding Channel2_IsRecording}" Value="False">
+                                                <Setter Property="Content" Value="Recording Stopped."/>
+                                                <Setter Property="Effect">
+                                                    <Setter.Value>
+                                                        <DropShadowEffect ShadowDepth="0" Color="Gray" Opacity="1" BlurRadius="20"/>
+
+                                                    </Setter.Value>
+                                                </Setter>
+
+                                            </DataTrigger>
+
+                                        </Style.Triggers>
+                                    </Style>
+                                </Label.Style>
+                            </Label>
+                        </Grid>
+                    </Border>
+
+
+                    <Grid Grid.Row="1" Margin="5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="100"/>
+
+                            <ColumnDefinition Width="10"/>
+
+                            <ColumnDefinition Width="1*"/>
+                            <ColumnDefinition Width="100"/>
+
+                        </Grid.ColumnDefinitions>
+
+                        <Border BorderBrush="Transparent" BorderThickness="2" CornerRadius="10"  Margin="2">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25"/>
+                                    <RowDefinition Height="5"/>
+                                    <RowDefinition />
+
+                                </Grid.RowDefinitions>
+
+
+                                <Label Content="{DynamicResource label_left_most_recent}" x:Name="label_left_most_recent" FontWeight="Black"/>
+                                <Separator Grid.Row="1"/>
+                                <ListBox ItemsSource="{Binding Channel1_LastAlert}"  Margin="3" Grid.Column="1" Grid.Row="2" Foreground="Azure" >
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackPanel>
+                                                <TextBlock Text="{Binding AlertType}" FontSize="13" Foreground="White" FontWeight="SemiBold"/>
+                                                <TextBlock Text="{Binding Date, StringFormat=f}" FontSize="10" Foreground="DarkGray"/>
+                                                <TextBlock Text="{Binding OriginOfStatus}" FontSize="10" Foreground="Gray"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+
+
+
+
+
+                            </Grid>
+
+
+                        </Border>
+
+
+
+                        <Border BorderBrush="Gray" BorderThickness="0" CornerRadius="10" Grid.Column="1" Margin="2">
+                            <StackPanel>
+                                <!--<TextBlock Text="INTRUSION DETECTION" TextAlignment="Center"/>-->
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <ToggleButton  ToolTip="{DynamicResource Left_Intrusion_Detection_Alarm}"
+                                                    Command="{Binding Channel1FirstAlertCommand}"
+                                                   CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                                                   materialDesign:ShadowAssist.ShadowDepth="Depth3" x:Name="tButton4" Margin="5" IsChecked="True" Style="{StaticResource MaterialDesignSwitchAccentToggleButton}" HorizontalAlignment="Right"/>
+                                    <!--<materialDesign:PackIcon Grid.Column="1" Kind="AlarmCheck" Height="24" Width="24" HorizontalAlignment="Center" Margin="5"/>-->
+                                    <Image  Height="30" Margin="5" Width="30" Grid.Column="1" ToolTip="{DynamicResource Left_Intrusion_Detection_Alarm}">
+                                        <Image.Style>
+                                            <Style TargetType="Image">
+                                                <Style.Triggers>
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton4}" Value="True">
+                                                        <Setter Property="Source" Value="Images\Alarm-Light.png"/>
+                                                        <Setter Property="Effect">
+                                                            <Setter.Value>
+                                                                <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </DataTrigger>
+
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton4}" Value="False">
+                                                        <Setter Property="Source" Value="Images\Alarm-Dark.png"/>
+                                                       
+                                                    </DataTrigger>
+
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Image.Style>
+                                    </Image>
+                                </Grid>
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <ToggleButton x:Name="tButton5" ToolTip="{DynamicResource Left_Camera_Cover_Alarm}"
+                                                   Command="{Binding Channel1SecondAlertCommand}"
+                                                   CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                                                  Margin="5" IsChecked="True" Style="{StaticResource MaterialDesignSwitchAccentToggleButton}" HorizontalAlignment="Right"/>
+                                    <!--<materialDesign:PackIcon Grid.Column="1" Kind="CameraFront" Height="24" Width="24" HorizontalAlignment="Center" Margin="5"/>-->
+
+                                    <Image  Height="30" Margin="5" Width="30" Grid.Column="1" ToolTip="{DynamicResource Left_Camera_Cover_Alarm}">
+                                        <Image.Style>
+                                            <Style TargetType="Image">
+                                                <Style.Triggers>
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton5}" Value="True">
+                                                        <Setter Property="Source" Value="Images\Alarm-Cover-Light.png"/>
+                                                        <Setter Property="Effect">
+                                                            <Setter.Value>
+                                                                <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </DataTrigger>
+
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton5}" Value="False">
+                                                        <Setter Property="Source" Value="Images\Alarm-Cover-Dark.png"/>
+
+                                                    </DataTrigger>
+
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Image.Style>
+                                    </Image>
+                                </Grid>
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <ToggleButton x:Name="tButton6" ToolTip="{DynamicResource Left_Camera_Disconnected_Alarm}"
+                                                   Command="{Binding Channel1ThirdAlertCommand}"
+                                                   CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                                                  Margin="5" IsChecked="True" Style="{StaticResource MaterialDesignSwitchAccentToggleButton}" HorizontalAlignment="Right"/>
+                                    <!--<materialDesign:PackIcon Grid.Column="1" Kind="AlarmOff" Height="24" Width="24" HorizontalAlignment="Center" Margin="5"/>-->
+
+
+                                    <Image  Height="30" Margin="5" Width="30" Grid.Column="1" ToolTip="{DynamicResource Left_Camera_Disconnected_Alarm}">
+                                        <Image.Style>
+                                            <Style TargetType="Image">
+                                                <Style.Triggers>
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton6}" Value="True">
+                                                        <Setter Property="Source" Value="Images\Alarm-Disconnected-Light.png"/>
+                                                        <Setter Property="Effect">
+                                                            <Setter.Value>
+                                                                <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </DataTrigger>
+
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton6}" Value="False">
+                                                        <Setter Property="Source" Value="Images\Alarm-Disconnected-Dark.png"/>
+
+                                                    </DataTrigger>
+
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Image.Style>
+                                    </Image>
+                                </Grid>
+
+
+
+                            </StackPanel>
+                        </Border>
+
+                        <StackPanel Orientation="Horizontal" Grid.Column="2">
+                            <Separator Width="2" Background="Gray" Style="{StaticResource {x:Static ToolBar.SeparatorStyleKey}}" />
+                        </StackPanel>
+
+                        <Border BorderBrush="Transparent" BorderThickness="2" CornerRadius="10" Grid.Column="3" Margin="2">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="25"/>
+                                    <RowDefinition Height="5"/>
+                                    <RowDefinition />
+
+                                </Grid.RowDefinitions>
+
+
+                                <Label x:Name="label_right_most_recent" Content="{DynamicResource label_right_most_recent}" FontWeight="Black"/>
+                                <Separator Grid.Row="1"/>
+                                <ListBox ItemsSource="{Binding Channel2_LastAlert}"  Margin="3" Grid.Column="1" Grid.Row="2" Foreground="Azure" >
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackPanel>
+                                                <TextBlock Text="{Binding AlertType}" FontSize="13" Foreground="White" FontWeight="SemiBold"/>
+                                                <TextBlock Text="{Binding Date, StringFormat=f}" FontSize="10" Foreground="DarkGray"/>
+                                                <TextBlock Text="{Binding OriginOfStatus}" FontSize="10" Foreground="Gray"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                </ListBox>
+
+
+
+
+
+                            </Grid>
+
+
+                        </Border>
+
+
+
+                        <Border  BorderBrush="Gray" BorderThickness="0" CornerRadius="10" Grid.Column="4" Margin="3">
+                            <StackPanel>
+                                <!--<TextBlock Text="INTRUSION DETECTION" TextAlignment="Center"/>-->
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <ToggleButton x:Name="tButton1" ToolTip="{DynamicResource Right_Intrusion_Detection_Alarm}" 
+                                                   Command="{Binding Channel2FirstAlertCommand}"
+                                                   CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                                                  Margin="5" IsChecked="True" Style="{StaticResource MaterialDesignSwitchAccentToggleButton}" HorizontalAlignment="Right"/>
+                                    <!--<materialDesign:PackIcon Grid.Column="1" Kind="AlarmCheck" Height="24" Width="24" HorizontalAlignment="Center" Margin="5"/>-->
+                                    <Image  Height="30" Margin="5" Width="30" Grid.Column="1" ToolTip="{DynamicResource Left_Intrusion_Detection_Alarm}">
+                                        <Image.Style>
+                                            <Style TargetType="Image">
+                                                <Style.Triggers>
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton1}" Value="True">
+                                                        <Setter Property="Source" Value="Images\Alarm-Light.png"/>
+                                                        <Setter Property="Effect">
+                                                            <Setter.Value>
+                                                                <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </DataTrigger>
+
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton1}" Value="False">
+                                                        <Setter Property="Source" Value="Images\Alarm-Dark.png"/>
+
+                                                    </DataTrigger>
+
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Image.Style>
+                                    </Image>
+
+                                </Grid>
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <ToggleButton x:Name="tButton2" ToolTip="{DynamicResource Right_Camera_Cover_Alarm}"
+                                                   Command="{Binding Channel2SecondAlertCommand}"
+                                                   CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                                                  Margin="5" IsChecked="True" Style="{StaticResource MaterialDesignSwitchAccentToggleButton}" HorizontalAlignment="Right"/>
+                                    <!--<materialDesign:PackIcon Grid.Column="1" Kind="CameraFront" Height="24" Width="24" HorizontalAlignment="Center" Margin="5"/>-->
+                                    <Image  Height="30" Margin="5" Width="30" Grid.Column="1" ToolTip="{DynamicResource Left_Camera_Cover_Alarm}">
+                                        <Image.Style>
+                                            <Style TargetType="Image">
+                                                <Style.Triggers>
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton2}" Value="True">
+                                                        <Setter Property="Source" Value="Images\Alarm-Cover-Light.png"/>
+                                                        <Setter Property="Effect">
+                                                            <Setter.Value>
+                                                                <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </DataTrigger>
+
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton2}" Value="False">
+                                                        <Setter Property="Source" Value="Images\Alarm-Cover-Dark.png"/>
+
+                                                    </DataTrigger>
+
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Image.Style>
+                                    </Image>
+
+                                </Grid>
+
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition/>
+                                    </Grid.ColumnDefinitions>
+                                    <ToggleButton x:Name="tButton3" ToolTip="{DynamicResource Right_Camera_Disconnected_Alarm}" 
+                                                   Command="{Binding Channel2ThirdAlertCommand}"
+                                                   CommandParameter="{Binding IsChecked, RelativeSource={RelativeSource Self}, Mode=OneWay}"
+                                                  Margin="5" IsChecked="True" Style="{StaticResource MaterialDesignSwitchAccentToggleButton}" HorizontalAlignment="Right"/>
+                                    <!--<materialDesign:PackIcon Grid.Column="1" Kind="CameraOff" Height="24" Width="24" HorizontalAlignment="Center" Margin="5"/>-->
+                                    <Image  Height="30" Margin="5" Width="30" Grid.Column="1" ToolTip="{DynamicResource Left_Camera_Disconnected_Alarm}">
+                                        <Image.Style>
+                                            <Style TargetType="Image">
+                                                <Style.Triggers>
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton3}" Value="True">
+                                                        <Setter Property="Source" Value="Images\Alarm-Disconnected-Light.png"/>
+                                                        <Setter Property="Effect">
+                                                            <Setter.Value>
+                                                                <DropShadowEffect ShadowDepth="0" Color="Yellow" Opacity="1" BlurRadius="20"/>
+
+                                                            </Setter.Value>
+                                                        </Setter>
+                                                    </DataTrigger>
+
+                                                    <DataTrigger  Binding="{Binding IsChecked, ElementName=tButton3}" Value="False">
+                                                        <Setter Property="Source" Value="Images\Alarm-Disconnected-Dark.png"/>
+
+                                                    </DataTrigger>
+
+                                                </Style.Triggers>
+                                            </Style>
+                                        </Image.Style>
+                                    </Image>
+
+                                </Grid>
+
+
+
+                            </StackPanel>
+                        </Border>
+
+
+
+                    </Grid>
+
+                </Grid>
+
+            </Border>
+
+            <Border BorderBrush="Gray" CornerRadius="10" BorderThickness="0" Margin="5" Grid.Row="2" Background="Transparent">
+
+                <Border.Resources>
+                    <Style TargetType="Border">
+                        <Setter Property="Effect">
+
+                            <Setter.Value>
+                                <DropShadowEffect ShadowDepth="0" Color="DarkGray" Opacity="1" BlurRadius="10"/>
+
+                            </Setter.Value>
+
+                        </Setter>
+                    </Style>
+
+                </Border.Resources>
+
+                <StackPanel  HorizontalAlignment="Right"  Grid.Row="2" Name="PanelButton" Orientation="Horizontal" VerticalAlignment="Center" Margin="3">
+
+
+                    <Label Content="CPU" x:Name="label_cpu" FontWeight="Black" Foreground="Black"/>
+
+                    <Label Content="MEMORY" x:Name="label_ram" FontWeight="Black" Foreground="Black"/>
+
+                    <!--<Button Style="{StaticResource MaterialDesignRaisedDarkButton}" Margin="0 0 8 0" Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightDarkButton">
+                    _Settings
+                </Button>
+
+                <Button Style="{StaticResource MaterialDesignRaisedDarkButton}" Margin="0 0 8 0" Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightDarkButton">
+                    _Main
+                </Button>
+
+
+                <Button Style="{StaticResource MaterialDesignRaisedDarkButton}" Margin="0 0 8 0"  Width="100"
+                    ToolTip="Resource name: MaterialDesignRaisedLightDarkButton">
+                    <materialDesign:PackIcon Kind="Play" Height="24" Width="24" />
+                </Button>-->
+
+
+                </StackPanel>
+            </Border>
+
+        </Grid>
+    </materialDesign:ColorZone>
+</UserControl>

@@ -1,0 +1,223 @@
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\MahApps.Metro.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\System.Windows.Interactivity.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\MahApps.Metro.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\MahApps.Metro.xml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csprojResolveAssemblyReference.cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Defaults.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Dialogs.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Fonts.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.RangeSlider.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.WindowCommands.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Flyout.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\MaterialDesignThemes.MahApps.Properties.Resources.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csproj.GenerateResource.Cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.xml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.lref
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.g.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.xml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Defaults.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Dialogs.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Fonts.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.RangeSlider.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.WindowCommands.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.lref
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Flyout.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.g.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\MaterialDesignThemes.MahApps.Properties.Resources.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csproj.GenerateResource.Cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csprojResolveAssemblyReference.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.xml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csprojResolveAssemblyReference.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Defaults.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Dialogs.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Fonts.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.RangeSlider.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.WindowCommands.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.lref
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Flyout.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.g.resources
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\MaterialDesignThemes.MahApps.Properties.Resources.resources
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csproj.GenerateResource.Cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\System.Windows.Interactivity.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.xml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csprojResolveAssemblyReference.cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Defaults.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Dialogs.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Fonts.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.RangeSlider.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.WindowCommands.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.lref
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Flyout.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.g.resources
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\MaterialDesignThemes.MahApps.Properties.Resources.resources
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csproj.GenerateResource.Cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\os.ma.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ost.design.xml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\osc.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Defaults.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Dialogs.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Fonts.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.RangeSlider.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.WindowCommands.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.lref
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Flyout.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.g.resources
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\MaterialDesignThemes.MahApps.Properties.Resources.resources
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csproj.GenerateResource.Cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignThemes.MahApps\obj\Debug\os.ma.pdb
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\os.ma.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\os.ma.pdb
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ost.design.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\System.Windows.Interactivity.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\osc.design.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ost.design.pdb
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ost.design.xml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\osc.design.pdb
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csprojResolveAssemblyReference.cache
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Defaults.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Dialogs.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Fonts.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.RangeSlider.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.WindowCommands.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.cache
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.lref
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Flyout.baml
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.g.resources
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\MaterialDesignThemes.MahApps.Properties.Resources.resources
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csproj.GenerateResource.Cache
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.dll
+E:\oDesk\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\os.ma.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\os.ma.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ost.design.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\osc.design.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ost.design.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ost.design.xml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\osc.design.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csprojResolveAssemblyReference.cache
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Defaults.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Dialogs.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Fonts.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.RangeSlider.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.WindowCommands.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.cache
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma_MarkupCompile.lref
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\Themes\MaterialDesignTheme.MahApps.Flyout.baml
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.g.resources
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\MaterialDesignThemes.MahApps.Properties.Resources.resources
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.csproj.GenerateResource.Cache
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.dll
+D:\Upwork\Intrusion GUI\MaterialDesignThemes.MahApps\obj\Debug\os.ma.pdb

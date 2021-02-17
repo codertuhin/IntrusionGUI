@@ -1,0 +1,325 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Shared_Data</name>
+    </assembly>
+    <members>
+        <member name="T:Shared_Data.PTZDirection">
+            <summary>
+            THe direction of the camera, e.g. up, down
+            </summary>
+        </member>
+        <member name="F:Shared_Data.AlertType.MotionDetection">
+            <summary>
+            setect motion with in a frame, by default is working, the rest by default not working
+            </summary>
+        </member>
+        <member name="F:Shared_Data.AlertType.CameraDisconnected">
+            <summary>
+            Camera communication problem or disconnection or power off
+            </summary>
+        </member>
+        <member name="F:Shared_Data.AlertType.CameraCover">
+            <summary>
+            an object was put on the camera lens port of view
+            </summary>
+        </member>
+        <member name="F:Shared_Data.AlertType.EnterROI">
+            <summary>
+            an object enter selected ROI
+            </summary>
+        </member>
+        <member name="F:Shared_Data.AlertType.ExitROI">
+            <summary>
+            an object exit selected ROI
+            </summary>
+        </member>
+        <member name="T:Shared_Data.IStatus">
+            <summary>
+            The status of the alert of a channel
+            </summary>
+        </member>
+        <member name="T:Shared_Data.I_UI_Channel_Basic">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.AlertTypeList">
+            <summary>
+            Contain the selected list of alert in the Channel\Trigger\Alert selection.
+            the left array mark the serial order of the alert. the right array contain only 0 or 1 
+            to indicate if the alert is activated.
+            [0] --> camera disconnected
+            [1] --> camera cover
+            [2] --> intrusion
+            [3] --> In ROI
+            [4] --> Out ROI
+            [5] --> Loitering
+            [6] --> object was left in the ROI(part of the blob exit the ROI)
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.MaskedImage">
+            <summary>
+            White area (0000000f) are for motion detection, black area are masked (ffffffff)
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.Model">
+            <summary>
+            The model of the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.Password">
+            <summary>
+            The login password to the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.Port">
+            <summary>
+            The connection port to the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.RelativeObject">
+            <summary>
+            The relative data from Channel\Trigger\Relative.first int == object type second type == object height percentage from the frame , third int == width precentage
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.ROI">
+            <summary>
+            The array contain the point which the ROI is made of in Channel\Trigger\Draw selection,[0][0] contain the image resolution
+            at the mobile device side so when it will be passed to the server the server will be able to calculate it relative position.
+            in order to distinguish between different ROI within the same image [x][x] will contain zero int.  
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.URL">
+            <summary>
+            The URL connection to the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.UserName">
+            <summary>
+            The login user name
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Basic.Vendor">
+            <summary>
+            The camera vendor name
+            </summary>
+        </member>
+        <member name="T:Shared_Data.I_UI_Channel_Display">
+            <summary>
+            General information that contain high level control and information on the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Display.Description">
+            <summary>
+            description of the channel
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Display.Image">
+            <summary>
+            A snap shot of the channel video stream
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Display.IsConnected">
+            <summary>
+            indicate if the camera connected to the server
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Display.IsInDB">
+            <summary>
+            indicate if  the camera is in the DB 
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Display.IsRecording">
+            <summary>
+            indicate if the camera is recording
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Display.Last_Alert">
+            <summary>
+            A description list of the last 5 alert that was detected by this camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_Channel_Display.Name">
+            <summary>
+            The name of the camera, extract from the camera 
+            </summary>
+        </member>
+        <member name="T:Shared_Data.I_UI_PTZ">
+            <summary>
+            Contain the PTZ instructions
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_PTZ.Direction">
+            <summary>
+            indicate the direction of the movement of the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_PTZ.Enabled">
+            <summary>
+            indicate the if the camera is PTZ enabled
+            </summary>
+        </member>
+        <member name="P:Shared_Data.I_UI_PTZ.Zoom">
+            <summary>
+            indicate the direction of the zoom
+            </summary>
+        </member>
+        <member name="P:Shared_Data.Status.Date">
+            <summary>
+            the exact time when the alert was created
+            </summary>
+        </member>
+        <member name="P:Shared_Data.Status.AlertType">
+            <summary>
+            the alert type
+            </summary>
+        </member>
+        <member name="P:Shared_Data.Status.OriginOfStatus">
+            <summary>
+            the source camera where the status was originated
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Action.ContactID">
+            <summary>
+            The contact that relvant to this action
+            </summary>
+        </member>
+        <member name="T:Shared_Data.UI_Channel_Basic">
+            <summary>
+            Contains general details that enable basic control of the channel
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.Model">
+            <summary>
+            The model of the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.Password">
+            <summary>
+            The login password to the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.Port">
+            <summary>
+            The connection port to the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.URL">
+            <summary>
+            The URL connection to the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.UserName">
+            <summary>
+            The login user name
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.Vendor">
+            <summary>
+            The camera vendor name
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.ROI">
+            <summary>
+            The array contain the point which the ROI is made of in Channel\Trigger\Draw selection,[0][0] contain the image resolution
+            at the mobile device side so when it will be passed to the server the server will be able to calculate it relative position.
+            in order to distinguish between different ROI within the same image [x][x] will contain zero int.  
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.AlertTypeList">
+            <summary>
+            Contain the selected list of alert in the Channel\Trigger\Alert selection.
+            the left array mark the serial order of the alert. the right array contain only 0 or 1 
+            to indicate if the alert is activated.
+            [0] --> camera disconnected
+            [1] --> camera cover
+            [2] --> intrusion
+            [3] --> In ROI
+            [4] --> Out ROI
+            [5] --> Loitering
+            [6] --> object was left in the ROI(part of the blob exit the ROI)
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.RelativeObject">
+            <summary>
+            The relative data from Channel\Trigger\Relative.first int == object type second type == object height percentage from the frame , third int == width precentage
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Basic.MaskedImage">
+            <summary>
+            White area (0000000f) are for motion detection, black area are masked (ffffffff)
+            </summary>
+        </member>
+        <member name="T:Shared_Data.UI_Channel_Display">
+            <summary>
+            Contains detailed information about the channel.main uses are in channels page
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Display.Description">
+            <summary>
+            description of the channel
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Display.IsRecording">
+            <summary>
+            indicate if the camera is recording
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Display.Last_Alert">
+            <summary>
+            A description list of the last 5 alert that was detected by this camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Display.Name">
+            <summary>
+            The name of the camera, extract from the camera 
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Display.IsConnected">
+            <summary>
+            indicate if the camera connected to the server
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Display.IsInDB">
+            <summary>
+            indicate if  the camera is in the DB 
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Channel_Display.Image">
+            <summary>
+            A snap shot of the channel video stream
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Notification.TimeOfEvent">
+            <summary>
+            the alert type and date stamp of the status
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Notification.AlertType">
+            <summary>
+            the alert type
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_Notification.OriginOfStatus">
+            <summary>
+            the source camera where the status was originated
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_PTZ.Enabled">
+            <summary>
+            indicate the if the camera is PTZ enabled
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_PTZ.Direction">
+            <summary>
+            indicate the direction of the movement of the camera
+            </summary>
+        </member>
+        <member name="P:Shared_Data.UI_PTZ.Zoom">
+            <summary>
+            indicate the direction of the zoom
+            </summary>
+        </member>
+    </members>
+</doc>

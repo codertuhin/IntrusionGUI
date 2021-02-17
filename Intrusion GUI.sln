@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ofir_Shtainfeld", "Ofir_Shtainfeld\Ofir_Shtainfeld.csproj", "{A670055D-19EB-4708-8EC0-77D24EA91257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "osc.design", "MaterialDesignColors.Wpf\osc.design.csproj", "{90B53209-C60C-4655-B28D-A1B3E1044BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "os.ma", "MaterialDesignThemes.MahApps\os.ma.csproj", "{81556A2D-D467-43E7-945B-FD987C676CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ost.design", "MaterialDesignThemes.Wpf\ost.design.csproj", "{F079FB0A-A8ED-4216-B6A5-345756751A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "os.model", "os.model\os.model.csproj", "{DAE551EC-EF94-441F-95CB-7BEDF8F40C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		AppVeyor|Any CPU = AppVeyor|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A670055D-19EB-4708-8EC0-77D24EA91257}.AppVeyor|Any CPU.ActiveCfg = Release|Any CPU
+		{A670055D-19EB-4708-8EC0-77D24EA91257}.AppVeyor|Any CPU.Build.0 = Release|Any CPU
+		{A670055D-19EB-4708-8EC0-77D24EA91257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A670055D-19EB-4708-8EC0-77D24EA91257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A670055D-19EB-4708-8EC0-77D24EA91257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A670055D-19EB-4708-8EC0-77D24EA91257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90B53209-C60C-4655-B28D-A1B3E1044BA3}.AppVeyor|Any CPU.ActiveCfg = AppVeyor|Any CPU
+		{90B53209-C60C-4655-B28D-A1B3E1044BA3}.AppVeyor|Any CPU.Build.0 = AppVeyor|Any CPU
+		{90B53209-C60C-4655-B28D-A1B3E1044BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B53209-C60C-4655-B28D-A1B3E1044BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B53209-C60C-4655-B28D-A1B3E1044BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B53209-C60C-4655-B28D-A1B3E1044BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81556A2D-D467-43E7-945B-FD987C676CF6}.AppVeyor|Any CPU.ActiveCfg = Release|Any CPU
+		{81556A2D-D467-43E7-945B-FD987C676CF6}.AppVeyor|Any CPU.Build.0 = Release|Any CPU
+		{81556A2D-D467-43E7-945B-FD987C676CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81556A2D-D467-43E7-945B-FD987C676CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81556A2D-D467-43E7-945B-FD987C676CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81556A2D-D467-43E7-945B-FD987C676CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F079FB0A-A8ED-4216-B6A5-345756751A04}.AppVeyor|Any CPU.ActiveCfg = AppVeyor|Any CPU
+		{F079FB0A-A8ED-4216-B6A5-345756751A04}.AppVeyor|Any CPU.Build.0 = AppVeyor|Any CPU
+		{F079FB0A-A8ED-4216-B6A5-345756751A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F079FB0A-A8ED-4216-B6A5-345756751A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F079FB0A-A8ED-4216-B6A5-345756751A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F079FB0A-A8ED-4216-B6A5-345756751A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE551EC-EF94-441F-95CB-7BEDF8F40C4E}.AppVeyor|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE551EC-EF94-441F-95CB-7BEDF8F40C4E}.AppVeyor|Any CPU.Build.0 = Release|Any CPU
+		{DAE551EC-EF94-441F-95CB-7BEDF8F40C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE551EC-EF94-441F-95CB-7BEDF8F40C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE551EC-EF94-441F-95CB-7BEDF8F40C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE551EC-EF94-441F-95CB-7BEDF8F40C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://shtainfeld.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ofir_Shtainfeld\\Ofir_Shtainfeld.csproj
+		SccProjectName1 = Ofir_Shtainfeld
+		SccLocalPath1 = Ofir_Shtainfeld
+		SccProjectUniqueName2 = MaterialDesignColors.Wpf\\osc.design.csproj
+		SccProjectName2 = MaterialDesignColors.Wpf
+		SccLocalPath2 = MaterialDesignColors.Wpf
+		SccProjectUniqueName3 = MaterialDesignThemes.MahApps\\os.ma.csproj
+		SccProjectName3 = MaterialDesignThemes.MahApps
+		SccLocalPath3 = MaterialDesignThemes.MahApps
+		SccProjectUniqueName4 = MaterialDesignThemes.Wpf\\ost.design.csproj
+		SccProjectName4 = MaterialDesignThemes.Wpf
+		SccLocalPath4 = MaterialDesignThemes.Wpf
+		SccProjectUniqueName5 = os.model\\os.model.csproj
+		SccProjectName5 = os.model
+		SccLocalPath5 = os.model
+	EndGlobalSection
+EndGlobal

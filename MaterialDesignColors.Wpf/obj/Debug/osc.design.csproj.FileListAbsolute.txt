@@ -1,0 +1,387 @@
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.g.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csproj.GenerateResource.Cache
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csprojResolveAssemblyReference.cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.pdb
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Blue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Cyan.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepOrange.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.DeepPurple.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Green.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Indigo.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightBlue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.LightGreen.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Lime.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Orange.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Pink.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Purple.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Red.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Teal.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Yellow.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Blue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.BlueGrey.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Brown.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Cyan.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepOrange.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.DeepPurple.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Green.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Indigo.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightBlue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.LightGreen.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Lime.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Orange.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Pink.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Purple.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Red.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Teal.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Accent.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Named.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.Primary.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Yellow.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Amber.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Blue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.BlueGrey.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Brown.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Cyan.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepOrange.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.DeepPurple.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Green.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Indigo.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightBlue.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.LightGreen.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Lime.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Orange.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Pink.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Purple.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Red.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Teal.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Yellow.baml
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design_MarkupCompile.cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.g.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csproj.GenerateResource.Cache
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.dll
+C:\Users\Core\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design_MarkupCompile.cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.g.resources
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csproj.GenerateResource.Cache
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.dll
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design_MarkupCompile.cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.g.resources
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csproj.GenerateResource.Cache
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.dll
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.pdb
+E:\oDesk\Ofir Shtainfeld\Updated\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\bin\Debug\osc.design.pdb
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csprojResolveAssemblyReference.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design_MarkupCompile.cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.g.resources
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csproj.GenerateResource.Cache
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.dll
+C:\Users\ofir\Downloads\Milestone_2_rev_5_Ofir_Shtainfeld_12132016\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.pdb
+C:\Users\Mushfikur Rahman\Desktop\Ofir_Shtainfeld\MaterialDesignColors.Wpf\obj\Debug\osc.design.csprojResolveAssemblyReference.cache
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\bin\Debug\osc.design.dll
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\bin\Debug\osc.design.pdb
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\osc.design.csprojResolveAssemblyReference.cache
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Accent\MaterialDesignColor.Amber.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Accent.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Accent.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.Primary.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Named.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.Primary.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Amber.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.Primary.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Named.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.Primary.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\MaterialDesignColor.Grey.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\Themes\Recommended\Primary\MaterialDesignColor.Grey.baml
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\osc.design_MarkupCompile.cache
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\osc.design.g.resources
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\MaterialDesignColors.Properties.Resources.resources
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\osc.design.csproj.GenerateResource.Cache
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\osc.design.dll
+D:\Upwork\Intrusion GUI\MaterialDesignColors.Wpf\obj\Debug\osc.design.pdb
